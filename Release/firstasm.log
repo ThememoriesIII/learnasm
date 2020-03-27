@@ -1,3 +1,0 @@
-﻿  Assembling main.asm...
-main.obj : error LNK2001: unresolved external symbol _DumpRegs@0
-C:\Users\Administrator\source\repos\firstasm\Release\firstasm.exe : fatal error LNK1120: 1 unresolved externals
